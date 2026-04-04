@@ -8,6 +8,10 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-        
+        {
+            "user": "Trajion",
+            "link": "https://www.youtube.com/watch?v=I1OS0K4Tyl8",
+            "percent": 100
+        }
     ]
 }
